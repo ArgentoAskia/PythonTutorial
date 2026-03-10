@@ -33,6 +33,7 @@ type(var)
 
 ## 5.
 输出使用print()
+输入使用input()
 
 """
 
