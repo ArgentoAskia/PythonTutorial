@@ -73,8 +73,6 @@ def func():
     """
     pass
     print("hello world")
-func()
-
 
 # 该实例演示了数字猜谜游戏
 
@@ -89,3 +87,4 @@ while guess != number:
         print("猜的数字小了...")
     elif guess > number:
         print("猜的数字大了...")
+func()
